@@ -4,7 +4,7 @@ import API from "../api/axios";
 
 import Navbar from "../components/Navbar";
 
-import CreatePost from "../components/Old";
+import CreatePost from "../components/CreatePost";
 
 import PostCard from "../components/PostCard";
 
